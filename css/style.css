@@ -3074,6 +3074,10 @@ body.students a{color:#60BDDB} /*Causing the social icons to be blue*/
   border-bottom: 0;
 }
 
+#pic1 {
+  transform: rotate(90deg);
+}
+
 /*========================= Profile Background Image ================================*/
 
 .top-page-title {
