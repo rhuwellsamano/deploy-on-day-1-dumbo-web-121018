@@ -3077,6 +3077,9 @@ body.students a{color:#60BDDB} /*Causing the social icons to be blue*/
 #pic1 {
   transform: rotate(90deg);
 }
+#pic2 {
+  transform: rotate(270deg);
+}
 
 /*========================= Profile Background Image ================================*/
 
